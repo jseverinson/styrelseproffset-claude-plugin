@@ -8,9 +8,18 @@
 		"email": "hej@styrelseproffset.se",
 		"url": "https://www.styrelseproffset.se"
 	},
-	"homepage": "https://www.styrelseproffset.se/hjalp/ansluta-claude-eller-chatgpt",
+	"homepage": "https://www.styrelseproffset.se",
+	"documentationUrl": "https://www.styrelseproffset.se/hjalp/ansluta-claude-eller-chatgpt",
 	"repository": "https://github.com/jseverinson/styrelseproffset-claude-plugin",
 	"license": "MIT",
 	"privacyPolicyUrl": "https://www.styrelseproffset.se/privacy",
-	"keywords": [ "brf", "bostadsrättsförening", "styrelse", "förening", "styrelseproffset" ]
+	"termsOfServiceUrl": "https://www.styrelseproffset.se/villkor",
+	"supportUrl": "https://www.styrelseproffset.se/kontakt",
+	"keywords": [
+		"brf",
+		"bostadsrättsförening",
+		"styrelse",
+		"förening",
+		"styrelseproffset"
+	]
 }
