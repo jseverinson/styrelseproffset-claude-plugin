@@ -1,0 +1,16 @@
+{
+	"name": "styrelseproffset",
+	"displayName": "Styrelseproffset",
+	"version": "1.0.0",
+	"description": "Arbeta med bostadsrättsföreningens möten, ärenden, kalender, medlemmar, avtal och dokument i Styrelseproffset.",
+	"author": {
+		"name": "Webb Trepunktnoll AB",
+		"email": "hej@styrelseproffset.se",
+		"url": "https://www.styrelseproffset.se"
+	},
+	"homepage": "https://www.styrelseproffset.se/hjalp/ansluta-claude-eller-chatgpt",
+	"repository": "https://github.com/jseverinson/styrelseproffset-claude-plugin",
+	"license": "MIT",
+	"privacyPolicyUrl": "https://www.styrelseproffset.se/privacy",
+	"keywords": [ "brf", "bostadsrättsförening", "styrelse", "förening", "styrelseproffset" ]
+}

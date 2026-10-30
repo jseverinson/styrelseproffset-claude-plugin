@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"styrelseproffset": {
+			"type": "http",
+			"url": "https://www.styrelseproffset.se/mcp"
+		}
+	}
+}
