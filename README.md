@@ -1,7 +1,5 @@
 # Styrelseproffset för Claude
 
-![Styrelseproffset](assets/logo.png)
-
 [Styrelseproffset](https://www.styrelseproffset.se) är plattformen där svenska bostadsrättsföreningar sköter
 sitt styrelsearbete. Med pluginet kan du be Claude om hjälp med föreningens arbete i stället för att leta
 själv: vad styrelsen beslutade på förra mötet, vilka ärenden som är öppna, vad som händer i kalendern nästa
